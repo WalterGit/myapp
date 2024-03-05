@@ -10,7 +10,8 @@ export const meta: MetaFunction = () => {
 export default function Index() {
   return (
     <div style={{ fontFamily: "system-ui, sans-serif", lineHeight: "1.8" }}>
-      <h1>WAS Tintas - Hoje</h1>      
+      <h1>WAS Tintas - Hoje</h1>  
+      <img src="https://tailwindui.com/img/component-images/dark-project-app-screenshot.png" alt="" />    
     </div>
   );
 }
